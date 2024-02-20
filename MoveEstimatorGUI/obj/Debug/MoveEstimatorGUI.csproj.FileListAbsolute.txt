@@ -1,0 +1,10 @@
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.csproj.AssemblyReference.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.Form1.resources
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.Properties.Resources.resources
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.csproj.GenerateResource.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\MoveEstimatorGUI\bin\Debug\MoveEstimatorGUI.exe.config
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\MoveEstimatorGUI\bin\Debug\MoveEstimatorGUI.exe
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\MoveEstimatorGUI\bin\Debug\MoveEstimatorGUI.pdb
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.exe
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.pdb
