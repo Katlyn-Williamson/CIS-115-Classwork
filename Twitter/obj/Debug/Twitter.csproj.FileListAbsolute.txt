@@ -1,0 +1,10 @@
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\Twitter\bin\Debug\Twitter.exe.config
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\Twitter\bin\Debug\Twitter.exe
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\Twitter\bin\Debug\Twitter.pdb
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\Twitter\obj\Debug\Twitter.csproj.AssemblyReference.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\Twitter\obj\Debug\Twitter.Form1.resources
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\Twitter\obj\Debug\Twitter.Properties.Resources.resources
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\Twitter\obj\Debug\Twitter.csproj.GenerateResource.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\Twitter\obj\Debug\Twitter.csproj.CoreCompileInputs.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\Twitter\obj\Debug\Twitter.exe
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\Twitter\obj\Debug\Twitter.pdb
