@@ -1,0 +1,10 @@
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DailyTemps\bin\Debug\DailyTemps.exe.config
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DailyTemps\bin\Debug\DailyTemps.exe
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DailyTemps\bin\Debug\DailyTemps.pdb
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DailyTemps\obj\Debug\DailyTemps.csproj.AssemblyReference.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DailyTemps\obj\Debug\DailyTemps.DailyTemps.resources
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DailyTemps\obj\Debug\DailyTemps.Properties.Resources.resources
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DailyTemps\obj\Debug\DailyTemps.csproj.GenerateResource.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DailyTemps\obj\Debug\DailyTemps.csproj.CoreCompileInputs.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DailyTemps\obj\Debug\DailyTemps.exe
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DailyTemps\obj\Debug\DailyTemps.pdb
