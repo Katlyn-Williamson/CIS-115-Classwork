@@ -1,0 +1,10 @@
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\TestScoreList\bin\Debug\TestScoreList.exe.config
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\TestScoreList\bin\Debug\TestScoreList.exe
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\TestScoreList\bin\Debug\TestScoreList.pdb
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\TestScoreList\obj\Debug\TestScoreList.csproj.AssemblyReference.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\TestScoreList\obj\Debug\TestScoreList.Form1.resources
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\TestScoreList\obj\Debug\TestScoreList.Properties.Resources.resources
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\TestScoreList\obj\Debug\TestScoreList.csproj.GenerateResource.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\TestScoreList\obj\Debug\TestScoreList.csproj.CoreCompileInputs.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\TestScoreList\obj\Debug\TestScoreList.exe
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\TestScoreList\obj\Debug\TestScoreList.pdb
