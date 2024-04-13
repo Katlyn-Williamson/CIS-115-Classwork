@@ -1,0 +1,10 @@
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DeliveryCharges\bin\Debug\DeliveryCharges.exe.config
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DeliveryCharges\bin\Debug\DeliveryCharges.exe
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DeliveryCharges\bin\Debug\DeliveryCharges.pdb
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DeliveryCharges\obj\Debug\DeliveryCharges.csproj.AssemblyReference.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DeliveryCharges\obj\Debug\DeliveryCharges.Form1.resources
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DeliveryCharges\obj\Debug\DeliveryCharges.Properties.Resources.resources
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DeliveryCharges\obj\Debug\DeliveryCharges.csproj.GenerateResource.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DeliveryCharges\obj\Debug\DeliveryCharges.csproj.CoreCompileInputs.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DeliveryCharges\obj\Debug\DeliveryCharges.exe
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\DeliveryCharges\obj\Debug\DeliveryCharges.pdb
