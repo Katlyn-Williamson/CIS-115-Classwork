@@ -1,0 +1,10 @@
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\FineForOverdueBooks\bin\Debug\FineForOverdueBooks.exe.config
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\FineForOverdueBooks\bin\Debug\FineForOverdueBooks.exe
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\FineForOverdueBooks\bin\Debug\FineForOverdueBooks.pdb
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.csproj.AssemblyReference.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.FineForOverdueBooks.resources
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.Properties.Resources.resources
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.csproj.GenerateResource.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.csproj.CoreCompileInputs.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.exe
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.pdb
