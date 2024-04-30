@@ -1,0 +1,10 @@
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PaintingEstimate\bin\Debug\PaintingEstimate.exe.config
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PaintingEstimate\bin\Debug\PaintingEstimate.exe
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PaintingEstimate\bin\Debug\PaintingEstimate.pdb
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PaintingEstimate\obj\Debug\PaintingEstimate.csproj.AssemblyReference.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PaintingEstimate\obj\Debug\PaintingEstimate.Form1.resources
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PaintingEstimate\obj\Debug\PaintingEstimate.Properties.Resources.resources
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PaintingEstimate\obj\Debug\PaintingEstimate.csproj.GenerateResource.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PaintingEstimate\obj\Debug\PaintingEstimate.csproj.CoreCompileInputs.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PaintingEstimate\obj\Debug\PaintingEstimate.exe
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PaintingEstimate\obj\Debug\PaintingEstimate.pdb
